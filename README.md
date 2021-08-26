@@ -12,13 +12,13 @@ This repo contains some examples of the various types of modules you might encou
 
 A native module design that leverages the extreme flexibility of JavaScript functions to encapsulate code.
 
-[a relative link](IIFE_modules.js)
+[IIFE_modules.js](IIFE_modules.js)
 
 ## AMD - Asynchronous Module Definition
 
 The define definition is a common method utilized by particular libraries called AMD loaders.
 
-[a relative link](AMD_modules.js)
+[AMD_modules.js](AMD_modules.js)
 
 ### Usage:
 
@@ -35,7 +35,7 @@ The define definition is a common method utilized by particular libraries called
 
 ## CJS - CommonJS
 
-[a relative link](CJS_modules.js)
+[CJS_modules.js](CJS_modules.js)
 
 ### Usage:
 
@@ -55,7 +55,7 @@ The define definition is a common method utilized by particular libraries called
 
 The ECMAScript (ES) 6 version of modules are native JavaScript!
 
-[a relative link](ES6_modules.js)
+[ES6_modules.js](ES6_modules.js)
 
 #### In-browser:
 - Can be invoked with the script tag type:
