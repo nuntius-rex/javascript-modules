@@ -4,7 +4,7 @@ Examples of various kinds of JavaScript modules.
 JavaScript has been in a state of growth with respect to modular design over the years.
 Often this has created some confusion over which module type we should be using.
 Very often, if we are not creating from scratch, we may be relegated to using the code structure the library we are using requires.
-Yet, a newer modern structure has emerged.
+Yet, a newer modern structure has emerged with ES6.
 
 This repo contains some examples of the various types of modules you might encounter.
 
@@ -12,9 +12,13 @@ This repo contains some examples of the various types of modules you might encou
 
 A native module design that leverages the extreme flexibility of JavaScript functions to encapsulate code.
 
+[a relative link](IIFE_modules.js)
+
 ## AMD - Asynchronous Module Definition
 
 The define definition is a common method utilized by particular libraries called AMD loaders.
+
+[a relative link](AMD_modules.js)
 
 ### Usage:
 
@@ -30,6 +34,8 @@ The define definition is a common method utilized by particular libraries called
 -  PINF http://github.com/pinf/loader-js
 
 ## CJS - CommonJS
+
+[a relative link](CJS_modules.js)
 
 ### Usage:
 
@@ -49,6 +55,7 @@ The define definition is a common method utilized by particular libraries called
 
 The ECMAScript (ES) 6 version of modules are native JavaScript!
 
+[a relative link](ES6_modules.js)
 
 #### In-browser:
 - Can be invoked with the script tag type:
