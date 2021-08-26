@@ -58,7 +58,7 @@ The ECMAScript (ES) 6 version of modules are native JavaScript!
 [ES6_modules.js](ES6_modules.js)
 
 #### In-browser:
-- Can be invoked with the script tag type:
+- Can be invoked with the script tag type attribute:
 
   ```
   <script src="./someModule.js" type="module"></script>
