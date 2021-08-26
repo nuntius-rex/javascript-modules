@@ -70,6 +70,12 @@ The ECMAScript (ES) 6 version of modules are native JavaScript!
 
 ## Recommended References:
 Check out these resources to go deeper!
+
 https://addyosmani.com/writing-modular-js/
 https://medium.com/backticks-tildes/introduction-to-es6-modules-49956f580da
 https://www.tutorialspoint.com/es6/es6_modules.htm
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+## About the Author
+Written by Dan Guinn
+http://danguinn.com

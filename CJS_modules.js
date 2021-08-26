@@ -2,12 +2,6 @@
 
 //CommonJS - JavaScript API design (EARLIER USE IN NODE JS)
 
-//https://addyosmani.com/writing-modular-js/
-
-/*
-
-*/
-
 
 // package/lib is a dependency we require
 var lib = require('package/lib');

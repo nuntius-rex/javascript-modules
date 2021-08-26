@@ -1,4 +1,6 @@
 
+//ES6 MODULES
+
 //Import from other ES6 Modules:
 import * as modObj from './someMod.js'; //Gets everything made available from export in someMod.js file, as an alias
 import {proc} as modObj from './someMod.js'; //Gets a specific named export

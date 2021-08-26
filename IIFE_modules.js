@@ -1,6 +1,6 @@
 
 
-//Immediately Invoked Function Expression
+//IIFE Modules - Immediately Invoked Function Expression
 
 //Global variable:
 var x=12;
