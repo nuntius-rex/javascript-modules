@@ -8,7 +8,7 @@ Yet, a newer modern structure has emerged with ES6.
 
 This repo contains some examples of the various types of modules you might encounter.
 
-## IIFF - Immediately Invoked Function Expression  
+## IIFE - Immediately Invoked Function Expression  
 
 A native module design that leverages the extreme flexibility of JavaScript functions to encapsulate code.
 
