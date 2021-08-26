@@ -29,7 +29,7 @@ The define definition is a common method utilized by particular libraries called
 -  RequireJS http://requirejs.org
 -  PINF http://github.com/pinf/loader-js
 
-##CJS - CommonJS
+## CJS - CommonJS
 
 ### Usage:
 
