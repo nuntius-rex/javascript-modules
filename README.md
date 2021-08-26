@@ -54,6 +54,7 @@ The define definition is a common method utilized by particular libraries called
 # ES6
 
 The ECMAScript (ES) 6 version of modules are native JavaScript!
+Note: must be on a server, due to CORS policies.
 
 [ES6_modules.js](ES6_modules.js)
 
