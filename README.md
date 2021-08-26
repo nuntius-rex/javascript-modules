@@ -41,14 +41,28 @@ The define definition is a common method utilized by particular libraries called
 #### Server-side:
 - Node http://nodejs.org
 - Narwhal https://github.com/tlrobinson/narwhal
-- Perseverehttp://www.persvr.org/
-- Wakandahttp://www.wakandasoft.com/
+- Persevere http://www.persvr.org/
+- Wakanda http://www.wakandasoft.com/
 
 
-#ES6
+# ES6
 
-Coming Soon!
+The ECMAScript (ES) 6 version of modules are native JavaScript!
 
+
+#### In-browser:
+- Can be invoked with the script tag type:
+
+  ```
+  <script src="./someModule.js" type="module"></script>
+  ```
+
+
+#### Server-side:
+- Node http://nodejs.org
 
 ## Recommended References:
-Check out https://addyosmani.com/writing-modular-js/
+Check out these resources to go deeper!
+https://addyosmani.com/writing-modular-js/
+https://medium.com/backticks-tildes/introduction-to-es6-modules-49956f580da
+https://www.tutorialspoint.com/es6/es6_modules.htm
